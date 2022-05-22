@@ -42,7 +42,7 @@ Quando não se tinha interação com a maleta dentro de um tempo de 5 minutos a 
 
 O projeto  do Front-end foi desenvolvido com as principais tecnologias:
 
-- [Html] (https://devdocs.io/html/)
+- [Html](https://devdocs.io/html/)
 - [Css](https://devdocs.io/css/)
 - [JavaScript](https://www.javascript.com/)
 - [Node.js](https://nodejs.org/en/)
