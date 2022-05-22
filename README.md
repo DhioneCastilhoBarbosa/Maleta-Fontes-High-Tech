@@ -34,16 +34,17 @@
 
 ## 💻 Projeto
 
-Desenvolvimento de um aplicação Frontend que era processada em um [Raspberry Pi](https://www.raspberrypi.org/) que recebia informações de um porta USB de um arduino onde processava 
-dados de tensão e corrente fornecida da fonte a qual estava sendo testada para verificar sua qualidade.
-Quando não se tinha interação com a maleta dentro de um tempo de 5 minutos a aplicação exibi um video de propaganda das soluções do segmento de fontes da unidade de energia 
-da intelbras.
+Desenvolvimento de uma aplicação Frontend que era processada em uma [Raspberry Pi](https://www.raspberrypi.org/) que recebia informações de uma porta USB de um arduino onde processava dados de tensão e corrente fornecida da fonte a qual estava sendo testada para verificar sua qualidade.
+Quando não se tinha interação com a maleta dentro de um tempo de 5 minutos a aplicação exibi um video de propaganda das soluções do segmento de fontes da unidade de energia da intelbras.
 
 
 ## 🚀 Tecnologias 
 
 O projeto  do Front-end foi desenvolvido com as principais tecnologias:
 
+- [Html] (https://devdocs.io/html/)
+- [Css](https://devdocs.io/css/)
+- [JavaScript](https://www.javascript.com/)
 - [Node.js](https://nodejs.org/en/)
 - [express](https://expressjs.com/pt-br/)
 - [serialport](https://serialport.io/)
